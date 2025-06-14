@@ -22,7 +22,7 @@ Pre-reading and preparatory materials can be found in this repository.
   
 - Short podcast .
 https://thesociologicalreview.org/podcasts/sideways-sociology-uk-anti-racism/len-garrison-archives-and-self-esteem/
-![image](https://github.com/user-attachments/assets/0c7903bb-35e7-42a6-8009-920c2eda8fe1)
+
 
 
 
